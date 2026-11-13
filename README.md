@@ -8,7 +8,7 @@ Projeto desenvolvido como atividade prática do curso de Desenvolvimento de Sist
 
 Confira o projeto funcionando diretamente pelo GitHub Pages:
 
-👉 [FFC – Flexes Fight Championship](COLE_AQUI_O_LINK_DO_SITE)
+👉 [FFC – Flexes Fight Championship](https://wellington-vinicius.github.io/FFC-Flexes-Fight-Championship/)
 
 ## 📌 Sobre o projeto
 
