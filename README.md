@@ -4,6 +4,12 @@
 
 Projeto desenvolvido como atividade prática do curso de Desenvolvimento de Sistemas da Proz.
 
+## 🌐 Acesse o site
+
+Confira o projeto funcionando diretamente pelo GitHub Pages:
+
+👉 [FFC – Flexes Fight Championship](COLE_AQUI_O_LINK_DO_SITE)
+
 ## 📌 Sobre o projeto
 
 A FFC (Flexes Fight Championship) é uma organização fictícia de MMA, inspirada nas grandes competições internacionais de artes marciais mistas.
